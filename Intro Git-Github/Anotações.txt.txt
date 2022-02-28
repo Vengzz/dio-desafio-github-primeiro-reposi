@@ -1,0 +1,24 @@
+Comandos windowns GIT 
+
+cd
+
+dir 
+
+mkdir 
+
+del/rmdir 
+
+
+sha1 = Criptofragia ultilizada por todo o sistema para autenticação do mesmo. Onde, uma pequena alteração em qualquer parte do arquivo irá resultar em outro SHA1. Assim modificando o sha1 que sucede no contexto geral do código. 
+
+Cada modificação dentro do código resultar em um sha1 diferente. Então após a alteração feita e o commit finalizado saberemos quem foi o serponsável por aquela determinada mudança e o que foi alterado a partir do comentário do mesmo. 
+
+
+Em um contexto mais genérico o Git é dividido em basicamente em 3 tipos básicos - ( BLOBS, TREES, COMMITS).
+
+Blobs - Bloco inicial.
+
+Trees - Conjunto de blocos e outras trees.
+
+Commit - Validação de toda a operação mostrando que o autor, data, mansagem etc...) 
+
